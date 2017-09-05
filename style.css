@@ -1,0 +1,17 @@
+img {height: 300px;
+        width: 400px;
+        }
+#carousel {margin: 0 auto;
+        height: 300px;
+        width: 400px;
+        border: 1px solid black;
+        overflow: hidden;}
+ul {width: 2000px;
+    padding: 0;
+    margin: 0;
+    list-style: none;}
+
+li {list-style: none;
+        height: 300px;
+        width: 400px;
+        float: left;}/*jak nadałem right to wyglądało jakby następne przesuwane zdjęcie od razu uciekało po przesunięciu*/
